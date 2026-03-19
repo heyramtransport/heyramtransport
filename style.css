@@ -467,17 +467,6 @@
             height: 350px;
             border-radius: 10px;
         }
-
-        /* Contact section links */
-.contact a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-/* Optional: hover effect */
-.contact a:hover {
-    color: #dc2626; /* your red theme */
-}
     
       
             
